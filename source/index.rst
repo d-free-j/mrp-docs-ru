@@ -8,6 +8,9 @@
   
    01_overview/index.rst
    02_files/index.rst
+   03_internal/index.rst
+   04_sdk/index.rst
+
 
 Ссылки:
 
