@@ -1,0 +1,23 @@
+[information]
+projectname=samplemronly.mpr
+filename=samplemronly.mrp
+appname=Test mr code
+appid=1500
+version=101
+visible=1
+cpu=3
+shell=1
+vendor=mrp-docs-ru
+description=Test sample mr code
+output_format=mrp
+config=common
+
+[config_common]
+output=samplemronly.mrp
+with_c_helper=false
+
+[files_common]
+file01=start.mr
+
+[files]
+

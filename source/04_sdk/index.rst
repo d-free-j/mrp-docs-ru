@@ -7,4 +7,6 @@
    :maxdepth: 1
   
    offsdk
+   examples/index
 
+ 
