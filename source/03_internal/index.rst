@@ -12,4 +12,6 @@
    :maxdepth: 1
   
    start.rst
+   base.rst
+   platform.rst
    

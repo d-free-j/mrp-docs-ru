@@ -38,7 +38,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'mrp-docs-ru'
-copyright = u'2013, D-Free-J'
+copyright = u'2013, compiled by D-Free-J'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

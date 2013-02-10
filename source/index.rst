@@ -6,11 +6,12 @@
 .. toctree::
    :maxdepth: 1
   
-   01_overview/index.rst
-   02_files/index.rst
-   03_internal/index.rst
-   04_sdk/index.rst
-
+   01_overview/index
+   02_files/index
+   03_internal/index
+   04_sdk/index
+   05_soft/index
+   notes
 
 Ссылки:
 
