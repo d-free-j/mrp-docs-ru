@@ -17,4 +17,5 @@
    :maxdepth: 1
   
    slg_file.rst
+   bm_file.rst
 
