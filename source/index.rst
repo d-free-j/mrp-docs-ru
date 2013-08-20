@@ -16,7 +16,7 @@
 Ссылки:
 
 * Страница с исходниками https://github.com/d-free-j/mrp-docs-ru
-* Если вы желате дополнить информацию:
+* Если вы желаете дополнить информацию:
 
   * Присылайте pull request в формате reStructuredText на https://github.com/d-free-j/mrp-docs-ru/pulls
   * Присылайте txt/odt/doc файл
