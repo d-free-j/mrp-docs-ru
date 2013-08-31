@@ -3,11 +3,11 @@
 
 Пример приложения, использующего только байт-код
 
-.. literalinclude:: samplemronly/start.mr
+.. literalinclude:: samplemronly/samplemronly.mr
 
-Проект для сборки
+Компиляция файла
 
-.. literalinclude:: samplemronly/project.mpr
+    ``mrptool mr2mrp samplemronly.mr``
 
 Результат
 
